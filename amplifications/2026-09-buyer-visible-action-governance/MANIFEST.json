@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "publication_object_id": "abe-publication-001-amplification-2026-09-buyer-visible-action-governance",
+  "status": "versioned-evidence-amplification",
+  "relationship_to_publication_001": "subsequent bounded evidence amplification; historical Publication 001 artifacts unchanged",
+  "presentation_version": "buyer-visible-v1",
+  "instrument_version": "path-b-v1",
+  "evaluation_run_id": null,
+  "experimental_evidence": {
+    "repository": "AdaptiveBusinessEngine/abe-test-platform",
+    "commit_sha": "8d2713f30f3375994790b4323ec2e730d0802986",
+    "recorded_ci_result": "25 passed in 0.08s",
+    "environment": "Python 3.12.14 / pytest 8.3.5"
+  },
+  "historical_publication_001_files_unchanged": [
+    "PUBLICATION_001.md",
+    "PUBLICATION_001_REFERENCES.md",
+    "PUBLICATION_001_RIGHTS_NOTICE.md"
+  ],
+  "public_artifacts": [
+    "README.md",
+    "EVIDENCE.md",
+    "LIMITATIONS.md",
+    "RIGHTS_NOTICE.md",
+    "MANIFEST.json"
+  ],
+  "path_b_external_surface": {
+    "deployed": false,
+    "url": null,
+    "note": "Separate version-bound external comprehension surface; not deployed or authorized by creation of this amplification."
+  },
+  "private_artifacts_not_disclosed": [
+    "complete AdaptiveBusinessEngine/abe-platform",
+    "complete AdaptiveBusinessEngine/abe-test-platform",
+    "internal gate/source implementation",
+    "private validators/nonessential fixtures",
+    "Red Team/adversarial material",
+    "private conversations",
+    "confidential/personal evidence",
+    "litigation-defense material",
+    "protection-sensitive mechanisms/know-how",
+    "raw visitor free-text responses"
+  ],
+  "claim_boundary_artifact": "LIMITATIONS.md",
+  "rights_notice_artifact": "RIGHTS_NOTICE.md"
+}
