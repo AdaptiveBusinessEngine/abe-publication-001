@@ -41,3 +41,17 @@ The historical 2026-08-16 Rights Notice remains attached to the historical bound
 New amplification artifacts use a separate amplification-specific rights notice and are identified by their own exact manifest/version/hash.
 
 Later releases may supersede or expand public material prospectively, but they must not rewrite what earlier release states actually contained or claimed.
+
+## 6. Consolidated manuscript v0.2 / Zenodo preprint — 2026-09-21
+
+A later consolidated ABE manuscript was publicly deposited on Zenodo as a Publication / Preprint.
+
+- Title: *Adaptive Business Engine (ABE): Evidence, Authority, and Action Governance in Human–AI Processes*
+- Author: Ileuza de Cássia Antônio Maya
+- Version: v0.2
+- Version DOI: https://doi.org/10.5281/zenodo.22881485
+- Concept DOI (all versions): https://doi.org/10.5281/zenodo.22881484
+
+This release incorporates the bounded CCG-v0.1 / Pilot V3 diagnostic record. The preserved categorical result is 14/16 Overall PASS and 2/16 Overall FAIL in blinded reconciliation; after unblinding, Control = 7/8 PASS and ABE-derived = 7/8 PASS. No categorical separation was observed.
+
+The diagnostic result is preserved without promotion to equivalence, noninferiority, absence-of-effect, superiority, or general-effectiveness claims. This v0.2 record is later evidence and does not silently rewrite the 2026-08-16 bounded release or subsequent amplification history.
