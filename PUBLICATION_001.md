@@ -318,6 +318,24 @@ Citations should identify that exact public version rather than an evolving priv
 
 A later publication may supersede or expand Publication 001, but it must not silently rewrite what Publication 001 actually stated.
 
+## 20. Later public preprint — ABE consolidated manuscript v0.2 (2026-09-21)
+
+A later, separately preserved public preprint expands the public record without rewriting Publication 001:
+
+**Adaptive Business Engine (ABE): Evidence, Authority, and Action Governance in Human–AI Processes**  
+Author: Ileuza de Cássia Antônio Maya  
+Version: v0.2  
+Resource type: Publication / Preprint  
+Version DOI: https://doi.org/10.5281/zenodo.22881485  
+Concept DOI (all versions): https://doi.org/10.5281/zenodo.22881484  
+Publication date: 2026-09-21
+
+The v0.2 preprint includes the consolidated ABE manuscript and the associated CCG-v0.1 diagnostic experimental record. Pilot V3 comprised 16 independent runs. Blinded reconciliation produced 14/16 Overall PASS and 2/16 Overall FAIL. After unblinding, Control produced 7/8 PASS and 1/8 FAIL, and ABE-derived produced 7/8 PASS and 1/8 FAIL. No categorical separation between the conditions was observed.
+
+Pilot V3 is diagnostic, not confirmatory. These results do not establish equivalence, noninferiority, absence of effect, superiority, or general effectiveness of ABE.
+
+The Zenodo deposit is a later time-bounded evidentiary/publication state. It does not retroactively modify the historical content or claims of Publication 001.
+
 ---
 
 ## Conclusion
